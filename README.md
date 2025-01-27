@@ -5,4 +5,5 @@
 - NodeJS
 - EJS
 - MongoDB
-  
+- JWT
+- Authentication
